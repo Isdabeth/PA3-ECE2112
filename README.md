@@ -1,5 +1,5 @@
 # PA3-ECE2112
-This repository contains the Jupyter Notebook for my Python codes for Pra=ogramming Assignment 3. <br>
+This repository contains the Jupyter Notebook for my Python codes for Programming Assignment 3. <br>
 This assignment is for the subject ECE2112 - Advanced Computer Programming and Algorithms.
 
 The notebook contains the Python codes for the two problems in Experiment 3: Python Data Analysis (Pandas). 
